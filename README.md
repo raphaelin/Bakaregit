@@ -1,0 +1,2 @@
+# Bakaregit
+My Beginner repository 
